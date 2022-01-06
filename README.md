@@ -1,8 +1,8 @@
 # Overview
 
-This is a basic Hello World program. I created this to demonstrate integration of Visual Studio Code, Python, and GitHub in preparation for future projects. THis project is finished.
+This is a basic Hello World program. I created this to demonstrate integration of Visual Studio Code, Python, and GitHub in preparation for future projects.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/4pNQwWlwKA4)
 
 # Development Environment
 
